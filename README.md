@@ -63,7 +63,7 @@ In the visualization of the robot localization, the following elements are prese
 
 - **Green Dot (Robot):**
   - The green dot in the image represents the actual or ground truth position of the robot. It symbolizes the true position and orientation of the robot within the environment.
-- **Red Dot (Estimation):**
+- **Red Dot (Best Estimated Position):**
   - The red dot symbolizes the estimated position of the robot. 
   - This estimation is derived from the Particle Filter algorithm, which calculates the mean (average) position of all the particles in the particle filter. 
   - The red dot represents the algorithm's best estimate of the robot's position based on the particles' distribution.
