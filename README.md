@@ -1,7 +1,4 @@
 # Robot Localization Particle Filter Simulation
-A Python based Particle Filter algorithm to estimate a robot's position and orientation within an environment by maintaining a collection of particles that adaptively converge to the true state based on sensor measurements and motion commands.
-
-## Overview
 
 This project is a Python implementation of a Robot Localization system using a Particle Filter algorithm. The primary goal is to demonstrate and simulate the process of estimating a robot's position and orientation (localization) as it moves within a 2D environment. Particle filtering is a powerful technique for solving the localization problem, and this project serves as an educational and illustrative tool to understand its principles.
 
