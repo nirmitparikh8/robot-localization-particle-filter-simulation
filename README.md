@@ -86,6 +86,7 @@ In the visualization of the robot localization, the following elements are prese
 
 ### Acknowledgments
 
-This project is based on the concept of Particle Filtering for robot localization. It aims to make the principles of Particle Filtering more accessible and understandable through interactive simulation.
+- This project is based on the concept of Particle Filtering for robot localization. It aims to make the principles of Particle Filtering more accessible and understandable through interactive simulation.
+- This specific project was done as part of a Coursera course on Particle Filtering.
 
 
